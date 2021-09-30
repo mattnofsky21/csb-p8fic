@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://.github.io/csb-p8fic/static/css/main.b61c80e4.chunk.css",
-    "main.js": "https://.github.io/csb-p8fic/static/js/main.32919afe.chunk.js",
-    "main.js.map": "https://.github.io/csb-p8fic/static/js/main.32919afe.chunk.js.map",
+    "main.js": "https://.github.io/csb-p8fic/static/js/main.c7a41a59.chunk.js",
+    "main.js.map": "https://.github.io/csb-p8fic/static/js/main.c7a41a59.chunk.js.map",
     "runtime-main.js": "https://.github.io/csb-p8fic/static/js/runtime-main.a53add9f.js",
     "runtime-main.js.map": "https://.github.io/csb-p8fic/static/js/runtime-main.a53add9f.js.map",
     "static/css/2.9c8230c7.chunk.css": "https://.github.io/csb-p8fic/static/css/2.9c8230c7.chunk.css",
@@ -13,15 +13,15 @@
     "static/css/main.b61c80e4.chunk.css.map": "https://.github.io/csb-p8fic/static/css/main.b61c80e4.chunk.css.map",
     "static/js/2.996a2c6e.chunk.js.LICENSE.txt": "https://.github.io/csb-p8fic/static/js/2.996a2c6e.chunk.js.LICENSE.txt",
     "static/media/logo1.18c94cd1.ico": "https://.github.io/csb-p8fic/static/media/logo1.18c94cd1.ico",
-    "static/media/old1.d2fdfc76.jpg": "https://.github.io/csb-p8fic/static/media/old1.d2fdfc76.jpg",
-    "static/media/scene1.6a9a22a1.jpg": "https://.github.io/csb-p8fic/static/media/scene1.6a9a22a1.jpg",
-    "static/media/scene2.4566a3c3.jpg": "https://.github.io/csb-p8fic/static/media/scene2.4566a3c3.jpg"
+    "static/media/old1.eed6bbc6.jpg": "https://.github.io/csb-p8fic/static/media/old1.eed6bbc6.jpg",
+    "static/media/scene1.3e0f2295.jpg": "https://.github.io/csb-p8fic/static/media/scene1.3e0f2295.jpg",
+    "static/media/scene2.bbf5ad2c.jpg": "https://.github.io/csb-p8fic/static/media/scene2.bbf5ad2c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a53add9f.js",
     "static/css/2.9c8230c7.chunk.css",
     "static/js/2.996a2c6e.chunk.js",
     "static/css/main.b61c80e4.chunk.css",
-    "static/js/main.32919afe.chunk.js"
+    "static/js/main.c7a41a59.chunk.js"
   ]
 }
